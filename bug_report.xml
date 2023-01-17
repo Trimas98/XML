@@ -1,1 +1,16 @@
-
+<modification>
+  <Title>Name</Title>
+  <Project>Name</Project>
+    <Severity>
+<one>Blocker</one>
+<two>Critical</two>
+<three>Major</three>
+<four>Minor</four>
+<five>Trivial</five>
+    </Severity>
+  <Priority>
+    <one>High</one>
+    <two>Medium</two>
+    <three>Low</three>
+</Priority>
+</modification>
